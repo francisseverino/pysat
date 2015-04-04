@@ -15,5 +15,5 @@ python pysat.py "a and b"
 ```
 
 Check out my blog post related to this project!
-[ueliem.me/2015/03/31/sat-solving-for-noobs/](http://ueliem.me/2015/03/31/sat-solving-for-noobs/)
+[ueliem.me/2015/04/03/beginning-sat-solving/](http://ueliem.me/2015/04/03/beginning-sat-solving/)
 
